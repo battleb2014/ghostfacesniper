@@ -12,8 +12,9 @@
   height: 25em;
 }
 
-.header button {
+.navBar button {
   width: 10em;
+  height: 3em;
   margin: 2em;
   padding: .5em;
   border-radius: 48%;
@@ -21,6 +22,7 @@
   background: linear-gradient(0.25turn, red, red, red, red, red, blue, blue, blue, blue, blue);
 }
 
-.header button:hover {
+.navBar button:hover {
   cursor: pointer;
+  background: linear-gradient(0.25turn, blue, blue, blue, blue, blue, red, red, red, red, red);
 }
