@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+}
+
+.header img {
+  width: 80%;
+  height: 25em;
+}
+
+.header button {
+  width: 10em;
+  margin: 2em;
+  padding: .5em;
+  border-radius: 48%;
+  color: white;
+  background: linear-gradient(0.25turn, red, red, red, red, red, blue, blue, blue, blue, blue);
+}
+
+.header button:hover {
+  cursor: pointer;
+}
