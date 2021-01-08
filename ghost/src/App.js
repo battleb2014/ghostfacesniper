@@ -1,4 +1,5 @@
 import './App.css';
+import './Components/Header';
 
 function App() {
   return (
